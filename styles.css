@@ -1,0 +1,9 @@
+.wrap {
+    background-color: lightblue;
+    border: 3px solid blue;
+    margin: 100px;
+}
+
+.title {
+    text-align: center;
+}
